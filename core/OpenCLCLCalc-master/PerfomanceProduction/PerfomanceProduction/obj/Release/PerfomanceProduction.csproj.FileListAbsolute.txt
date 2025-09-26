@@ -1,0 +1,9 @@
+d:\OpenCLCLCalc-master\PerfomanceProduction\PerfomanceProduction\bin\Release\PerfomanceProduction.dll
+d:\OpenCLCLCalc-master\PerfomanceProduction\PerfomanceProduction\bin\Release\PerfomanceProduction.pdb
+d:\OpenCLCLCalc-master\PerfomanceProduction\PerfomanceProduction\bin\Release\Cloo.dll
+d:\OpenCLCLCalc-master\PerfomanceProduction\PerfomanceProduction\bin\Release\OpenCLTemplate.dll
+d:\OpenCLCLCalc-master\PerfomanceProduction\PerfomanceProduction\obj\Release\PerfomanceProduction.csproj.AssemblyReference.cache
+d:\OpenCLCLCalc-master\PerfomanceProduction\PerfomanceProduction\obj\Release\PerfomanceProduction.csproj.CoreCompileInputs.cache
+d:\OpenCLCLCalc-master\PerfomanceProduction\PerfomanceProduction\obj\Release\PerfomanceProduction.csproj.CopyComplete
+d:\OpenCLCLCalc-master\PerfomanceProduction\PerfomanceProduction\obj\Release\PerfomanceProduction.dll
+d:\OpenCLCLCalc-master\PerfomanceProduction\PerfomanceProduction\obj\Release\PerfomanceProduction.pdb

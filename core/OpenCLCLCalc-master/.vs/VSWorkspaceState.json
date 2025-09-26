@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\PerfomanceProduction",
+    "\\PerfomanceProduction\\ConsoleClient",
+    "\\PerfomanceProduction\\ConsoleClient\\Properties",
+    "\\PerfomanceProduction\\FileStorage",
+    "\\PerfomanceProduction\\FileStorage\\bin",
+    "\\PerfomanceProduction\\FileStorage\\bin\\Release",
+    "\\PerfomanceProduction\\FileStorage\\Settings",
+    "\\PerfomanceProduction\\PerfomanceProduction\\bin",
+    "\\PerfomanceProduction\\PerfomanceProduction\\Nodes"
+  ],
+  "SelectedNode": "\\PerfomanceProduction\\FileStorage\\Settings\\model.gpu",
+  "PreviewInSolutionExplorer": false
+}

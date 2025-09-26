@@ -1,0 +1,12 @@
+d:\Users\Gena\Золотарев\казахстан\Жулдыз\OpenCLCLCalc-master\OpenCLCLCalc-master\PerfomanceProduction\FileStorage\bin\Debug\FileStorage.dll
+d:\Users\Gena\Золотарев\казахстан\Жулдыз\OpenCLCLCalc-master\OpenCLCLCalc-master\PerfomanceProduction\FileStorage\bin\Debug\FileStorage.pdb
+d:\Users\Gena\Золотарев\казахстан\Жулдыз\OpenCLCLCalc-master\OpenCLCLCalc-master\PerfomanceProduction\FileStorage\obj\Debug\FileStorage.csproj.AssemblyReference.cache
+d:\Users\Gena\Золотарев\казахстан\Жулдыз\OpenCLCLCalc-master\OpenCLCLCalc-master\PerfomanceProduction\FileStorage\obj\Debug\FileStorage.csproj.CoreCompileInputs.cache
+d:\Users\Gena\Золотарев\казахстан\Жулдыз\OpenCLCLCalc-master\OpenCLCLCalc-master\PerfomanceProduction\FileStorage\obj\Debug\FileStorage.dll
+d:\Users\Gena\Золотарев\казахстан\Жулдыз\OpenCLCLCalc-master\OpenCLCLCalc-master\PerfomanceProduction\FileStorage\obj\Debug\FileStorage.pdb
+D:\OpenCLCLCalc-master\PerfomanceProduction\FileStorage\bin\Debug\FileStorage.dll
+D:\OpenCLCLCalc-master\PerfomanceProduction\FileStorage\bin\Debug\FileStorage.pdb
+D:\OpenCLCLCalc-master\PerfomanceProduction\FileStorage\obj\Debug\FileStorage.csproj.AssemblyReference.cache
+D:\OpenCLCLCalc-master\PerfomanceProduction\FileStorage\obj\Debug\FileStorage.csproj.CoreCompileInputs.cache
+D:\OpenCLCLCalc-master\PerfomanceProduction\FileStorage\obj\Debug\FileStorage.dll
+D:\OpenCLCLCalc-master\PerfomanceProduction\FileStorage\obj\Debug\FileStorage.pdb

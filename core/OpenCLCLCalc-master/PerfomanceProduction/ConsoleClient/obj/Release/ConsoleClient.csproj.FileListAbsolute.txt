@@ -1,0 +1,12 @@
+d:\OpenCLCLCalc-master\PerfomanceProduction\ConsoleClient\bin\Release\ConsoleClient.exe.config
+d:\OpenCLCLCalc-master\PerfomanceProduction\ConsoleClient\bin\Release\ConsoleClient.exe
+d:\OpenCLCLCalc-master\PerfomanceProduction\ConsoleClient\bin\Release\ConsoleClient.pdb
+d:\OpenCLCLCalc-master\PerfomanceProduction\ConsoleClient\bin\Release\PerfomanceProduction.dll
+d:\OpenCLCLCalc-master\PerfomanceProduction\ConsoleClient\bin\Release\OpenCLTemplate.dll
+d:\OpenCLCLCalc-master\PerfomanceProduction\ConsoleClient\bin\Release\Cloo.dll
+d:\OpenCLCLCalc-master\PerfomanceProduction\ConsoleClient\bin\Release\PerfomanceProduction.pdb
+d:\OpenCLCLCalc-master\PerfomanceProduction\ConsoleClient\obj\Release\ConsoleClient.csproj.AssemblyReference.cache
+d:\OpenCLCLCalc-master\PerfomanceProduction\ConsoleClient\obj\Release\ConsoleClient.csproj.CoreCompileInputs.cache
+d:\OpenCLCLCalc-master\PerfomanceProduction\ConsoleClient\obj\Release\ConsoleClient.csproj.CopyComplete
+d:\OpenCLCLCalc-master\PerfomanceProduction\ConsoleClient\obj\Release\ConsoleClient.exe
+d:\OpenCLCLCalc-master\PerfomanceProduction\ConsoleClient\obj\Release\ConsoleClient.pdb

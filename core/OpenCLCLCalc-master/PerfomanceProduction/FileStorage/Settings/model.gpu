@@ -1,0 +1,7 @@
+﻿LocalWorkItemCount=128
+GlobalWorkItemCoeff = 100
+Iteration=100
+Path=D:\Disser\core\OpenCLCLCalc-master\PerfomanceProduction\FileStorage\Kernels\
+EbN0Start=6.0
+EbN0End=6.0
+EbN0Step=1

@@ -1,0 +1,11 @@
+d:\Users\Gena\Золотарев\казахстан\Жулдыз\OpenCLCLCalc-master\OpenCLCLCalc-master\PerfomanceProduction\Test\bin\Debug\Test.exe.config
+d:\Users\Gena\Золотарев\казахстан\Жулдыз\OpenCLCLCalc-master\OpenCLCLCalc-master\PerfomanceProduction\Test\bin\Debug\Test.exe
+d:\Users\Gena\Золотарев\казахстан\Жулдыз\OpenCLCLCalc-master\OpenCLCLCalc-master\PerfomanceProduction\Test\bin\Debug\Test.pdb
+d:\Users\Gena\Золотарев\казахстан\Жулдыз\OpenCLCLCalc-master\OpenCLCLCalc-master\PerfomanceProduction\Test\bin\Debug\PerfomanceProduction.dll
+d:\Users\Gena\Золотарев\казахстан\Жулдыз\OpenCLCLCalc-master\OpenCLCLCalc-master\PerfomanceProduction\Test\bin\Debug\OpenCLTemplate.dll
+d:\Users\Gena\Золотарев\казахстан\Жулдыз\OpenCLCLCalc-master\OpenCLCLCalc-master\PerfomanceProduction\Test\bin\Debug\PerfomanceProduction.pdb
+d:\Users\Gena\Золотарев\казахстан\Жулдыз\OpenCLCLCalc-master\OpenCLCLCalc-master\PerfomanceProduction\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+d:\Users\Gena\Золотарев\казахстан\Жулдыз\OpenCLCLCalc-master\OpenCLCLCalc-master\PerfomanceProduction\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+d:\Users\Gena\Золотарев\казахстан\Жулдыз\OpenCLCLCalc-master\OpenCLCLCalc-master\PerfomanceProduction\Test\obj\Debug\Test.csproj.CopyComplete
+d:\Users\Gena\Золотарев\казахстан\Жулдыз\OpenCLCLCalc-master\OpenCLCLCalc-master\PerfomanceProduction\Test\obj\Debug\Test.exe
+d:\Users\Gena\Золотарев\казахстан\Жулдыз\OpenCLCLCalc-master\OpenCLCLCalc-master\PerfomanceProduction\Test\obj\Debug\Test.pdb
